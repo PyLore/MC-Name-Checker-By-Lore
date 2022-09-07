@@ -48,6 +48,7 @@ def mc_checker(username: str) -> None:
         # If we got a hit.    
         if resp == 204:
            print(f'{Colors.WHITE}[{Colors.LIME}Available{Colors.WHITE}] {Colors.YELLOW}{username:<16}{Colors.WHITE}| {Colors.AQUA}{proxy}') 
+        
         checked.add(username)
         break
 
