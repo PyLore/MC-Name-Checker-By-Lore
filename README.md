@@ -2,7 +2,7 @@
 
 ### Simple python project to check a list of names to see if they are available to claim on minecraft
 
-![Screenshot](Screenshot.png)
+![Screenshot](screenshot.png)
 
 ## ℹ️Features:
 * Downloads a list of proxies
