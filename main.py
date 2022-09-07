@@ -42,7 +42,6 @@ def mc_checker(username: str) -> None:
                 headers = HEADERS,
                 timeout = 4
             ).status_code
-                
         except:
             continue
             
